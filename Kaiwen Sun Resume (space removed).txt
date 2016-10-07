@@ -1,0 +1,76 @@
+Kaiwen Sun
+
+Phone: (858) 336-6271
+Email: skwkevin836@gmail.com
+GitHub: https://github.com/kaiwensun
+Homepage: http://sites.google.com/site/kwtestkw
+
+Work Experience
+- Beijing Hengneng Tech. Ltd. (June.2016 每 Sept. 2016)
+-- Software Engineer Intern (The only one software programmer in this start-up)
+-- UAV Camera Head: A program on Raspberry Pi processing images and controlling a Sony camera, a Webcam and servo motors, loaded under a UAV (drone), so that the UAV automatically tracks user-selected objects.
+-- Livestream Backhaul & Remote Desktop: A remote monitor & control system for multiple users in LAN and WAN.
+-- Skills used: Java, OpenCV, multithreading, Python, Raspberry Pi and some APIs controlling hardware.
+
+Education Experience
+
+- University of California, San Diego (Sept. 2015 每 Dec. 2016)
+-- M.S. student in Computer Science
+-- GPA: 3.888 / 4.0
+
+- Nanjing University (Sept. 2011 每 July 2015)
+-- B.S. in Computer Science and Technology
+-- Ranking: 1/20 (National Elite Program Class, 20 students selected from 200)
+-- GPA: 88.3%
+
+- University of Waterloo (Sept. 2014 每 Apr. 2015)
+-- Exchange student in Computer Science
+-- Undergraduate Research Assistant, testing performance of revised Apache Spark
+-- GPA: 3.9 / 4.0
+
+Programming Languages & Technical Skills
+- Expert Languages: Java, C, C++, Python, MATLAB  (have C teaching experience)
+- Programming Tools: Vim, Git, GCC, GDB, Visual Studio, Eclipse, Linux, Windows
+- Others Skills: Multithread programming, Network programming, Apache Spark (PySpark), Berkeley Caffe, Verilog, \LaTex, Py2exe, SSH, NFS, Prot谷g谷, Wireshark, Docker, Jupyter, OpenCV(Java), Raspberry Pi, HTML, CSS
+
+Key Coursework and Projects
+
+- Distributed File System
+-- Use self-implemented general-purpose Java RMI library for remote process communication.
+-- Java skills include dynamic proxy, reflection, and multithreads synchronized by read/write lock.
+
+- Remote Shell Controller
+-- An integration of multiprogramming remote terminals like SSH, but has features catering my personal usage.
+-- Client and server＊s roles are swapped, so that controller can access to computers hidden behind NAT router.
+
+- Virtual Machine Management Cloud    (funding from Nanjing Univ. Undergraduate Innovation Program)
+-- Led a four-member team to design and implement a VM cloud, through which users can create, use, migrate and delete personalized operating system running on distant servers. Coded mainly in C.
+- Some Neural Network Projects
+-- A multi-layer neural network trained by back-propagation, using MATLAB, to learn and test on the MNIST Dataset.
+-- A convolutional neural network, using Berkeley Caffe and AWS, to train and test on the CIFAR-100 Dataset.
+-- A face verification program using DeepID proposed by CUHK scholars. Convolutional network and Siamese network are used.
+
+- Some Computer Vision Projects
+-- A sparse stereo matching program, using corner detection, SSD matching, and Epipolar Geometry.
+-- An image warping program using homography. Convert any quadrangle in a photo to get its front view.
+-- A program detecting optical flow
+-- Two human face classifiers using eigenfaces and Fisherfaces
+
+- Simplified Unix-like Operating System
+-- Built and coded operating system with I/O, process switching, file system, memory allocation features.
+
+- "C-- Compiler"
+-- Designed and built a compiler with Linux C to check errors and translate simplified C files to MIPS code
+-- Optimization power of the compiler ranked among top 5% in the class
+
+- Program Recognizing Handwritten Chinese Characters
+-- Designed the recognition algorithm, which was simple but effective. Implemented using MFC
+- Boolean SAT Problem Solution Based on DPLL and Probability
+-- Achieved full marks in this course, due to this fastest algorithm in my class.
+
+- Single Cycle CPU and Multiple Cycle CPU
+-- Design notes included by the lecturer in handouts for future terms. Coded in hardware language Verilog.
+
+Scholarships and Honors
+- Won several prizes during undergraduate study, including a 90,000 CNY scholarship from UWaterloo.
+- Won several honors during undergraduate study, including Outstanding Student of the Jiangsu Province.
