@@ -6,7 +6,7 @@ GitHub: https://github.com/kaiwensun
 Homepage: http://sites.google.com/site/kwtestkw
 
 Work Experience																				
-- Beijing Hengneng Tech. Ltd.												  June.2016 – Sept. 2016
+- Beijing Hengneng Tech. Ltd.												  June.2016 – Mar. 2017
 	- Software Engineer Intern (The only one software programmer in this start-up)
 	- UAV Camera Head: A program on Raspberry Pi processing images and controlling a Sony camera, a Webcam and servo motors, loaded under a UAV (drone), so that the UAV automatically tracks user-selected objects.
 	- Livestream Backhaul & Remote Desktop: A remote monitor & control system for multiple users in LAN and WAN.
